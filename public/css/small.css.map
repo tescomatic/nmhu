@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kDAAkD;AAKlD,sDAAsD;AAKtD,oDAAoD;AAKpD,qEAAqE",
+"sources": ["../sass/small.scss"],
+"names": [],
+"file": "small.css"
+}
